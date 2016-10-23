@@ -1,0 +1,6 @@
+install the barcode scanner plgin: ionic plugin add phonegap-plugin-barcodescanner
+
+1.our pages are inside src/pages
+2.pages include scan and scan-result
+2.1. scan-->just scans the qrcode and pass the result to scan-result page
+2.2.scan-result page --->displays the result
