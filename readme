@@ -1,4 +1,5 @@
 install the barcode scanner plgin: ionic plugin add phonegap-plugin-barcodescanner
+ALSO INSTALL IONIC NATIVE: npm install ionic-native --save
 
 1.our pages are inside src/pages
 2.pages include scan and scan-result
